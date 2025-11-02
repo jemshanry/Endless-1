@@ -1,7 +1,7 @@
 712445536git status → batata hai kaun si file modified hai, staged hai, ya untracked.
 
 git diff → changes ka difference dikhata hai.file
-1
+1 1212970001077
 
 # endless-releases
 
